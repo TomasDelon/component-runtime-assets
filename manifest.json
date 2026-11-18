@@ -9,6 +9,8 @@
     "bytes": 8734,
     "sha256": "b746311fdfa6b303db9f1b48512371de59869fca6d5f4655048b07228fc66424",
     "integrity": "sha256-t0YxH9+mswPbnxtIUSNx3lmGn8ptX0ZVBIsHIo/GZCQ=",
-    "status": "candidate"
+    "status": "published-prototype",
+    "revision": "00f1c39186254040bafe0bc0ed9b5aa35ae4f9b1",
+    "loaderBytes": 175
   }
 }
