@@ -22,5 +22,15 @@
     "imageSource": "mdn/shared-assets@f160bcf2db52/images/examples/balloons.jpg",
     "status": "chatgpt-web-accepted",
     "acceptance": "https://chatgpt.com/c/6afe27c6-45d8-83eb-92e5-890080ed559c"
+  },
+  "mathEditor": {
+    "file": "e.js",
+    "bytes": 14703,
+    "integrity": "sha256-WIou5cTeBneCE9UmzyQuukDX3wRtDTcKmhm4f1v/OxI=",
+    "revision": "7e407a9f8933501ad0375cceea708857985cff47",
+    "loaderBytes": 175,
+    "dependencies": "Vditor3.10.9 and its bundledKaTeX",
+    "status": "native-preview-accepted-clipboard-not-certified",
+    "acceptance": "https://chatgpt.com/c/6afe3360-6f2c-83ed-8a2d-662623517c53"
   }
 }
