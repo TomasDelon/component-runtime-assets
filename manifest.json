@@ -12,5 +12,15 @@
     "status": "published-prototype",
     "revision": "00f1c39186254040bafe0bc0ed9b5aa35ae4f9b1",
     "loaderBytes": 175
+  },
+  "imagePopup": {
+    "file": "i.js",
+    "bytes": 5557,
+    "integrity": "sha256-ewsr6YUQLaWPml+QjdHr8EHoSbY2xaD1FG8r4GuQqDY=",
+    "revision": "7a5cad418aab285e02cd48ed4c9e60b861717482",
+    "loaderBytes": 175,
+    "imageSource": "mdn/shared-assets@f160bcf2db52/images/examples/balloons.jpg",
+    "status": "chatgpt-web-accepted",
+    "acceptance": "https://chatgpt.com/c/6afe27c6-45d8-83eb-92e5-890080ed559c"
   }
 }

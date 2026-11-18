@@ -17,3 +17,7 @@ Only the static runtime, checksum manifest and this README are published. No MCP
 ```
 
 Optional `data-ui` supplies one escaped ColorMixer tag; the same compiler validates properties and escapes title text. Source requires no container/root identifier. The 12-character commit prefix was verified through jsDelivr and the full SRI hash pins the content. The default source is 175 bytes, excluding the host envelope. Actual ChatGPT fixtures covered defaults, custom RGB/title, all sliders, separate instances and a 375px browser viewport. No model-token or latency benchmark is claimed.
+
+## Image popup
+
+`i.js` is a standalone image lightbox runtime. It uses a direct existing public MDN image through jsDelivr, with visible source and license links. No image is mirrored here. Optional `data-src`, `data-alt`, `data-caption` support custom HTTPS sources, subject to host image policy. The dialog stays inside the native message block; it cannot overlay the parent ChatGPT page. Pin commit 7a5cad418aab and SHA-256 SRI from manifest.json. Old ColorMixer assets remain unchanged.
