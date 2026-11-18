@@ -1,7 +1,9 @@
 # Component runtime assets
 
-Browser runtime for the approved ColorMixer template. It reads `data-root` and `data-markup` from its script element, validates one ColorMixer tag and mounts the component.
+Static browser runtime for the approved ColorMixer template. It reads `data-root` and `data-markup` from its script element, validates one ColorMixer tag and mounts the fixed component. It makes no API calls and contains no credentials.
 
-Only this static runtime, its checksum manifest and this README are prepared for publication. No MCP server, credentials, deployment configuration or private repository history is included.
+The runtime is a prototype, not a complete plugin release. One native ChatGPT web fixture loaded the commit-pinned asset with Subresource Integrity and its three sliders updated the color. No latency or model-token benchmark is claimed.
 
-This candidate has not been published or verified through jsDelivr. A public GitHub repository and a commit-pinned jsDelivr URL are required for that test. Public delivery exposes this browser runtime implementation to anyone.
+Use a full Git commit in the jsDelivr URL and the integrity value in `manifest.json`. Reviewed runtime commit: `fb15eeffbeaf7bec4b9d9cc6d7f77afac9ee8243`.
+
+Only the static runtime, checksum manifest and this README are published. No MCP server, deployment configuration, credentials, private repository history or QA conversation data is included.
